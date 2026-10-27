@@ -17,7 +17,7 @@ de frequência do SIGAA em três cliques.
 
 <br>
 
-<img src="https://raw.githubusercontent.com/adsumhq/adsum/main/docs/leque.png" alt="Três janelas do Adsum: a tela inicial com a turma do dia, a chamada com dois nomes entrando, e o favorito do SIGAA com aulas para lançar" width="860">
+<img src="https://raw.githubusercontent.com/adsumhq/adsum/main/docs/leque.png?v=2" alt="Três janelas do Adsum: a tela inicial com a turma do dia, a chamada com dois nomes entrando, e o favorito do SIGAA com aulas para lançar" width="860">
 
 <sub>Gente inventada, da <a href="https://adsum.cin.ufpe.br/#/vitrine">vitrine</a>.</sub>
 
